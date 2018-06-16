@@ -25,5 +25,5 @@ if(a_to_vk)
 {a_to_vk.innerHTML+=a_to_va;}}
 function a_to_fa()
 {var a_to_vf=new Array();protected_links=protected_links.replace(" ","");a_to_vf=protected_links.split(",");return a_to_vf;}
-protected_links = "mamankblogger.blogspot.com,mamankflash.blogspot.com,mamankorea.blogspot.com,mamanktemplate.blogspot.com,mamanklirik.blogspotcom,mamankblogger.blogspot.co.id,mamankflash.blogspot.co.id,mamankorea.blogspot.co.id,mamanktemplate.blogspot.co.id,mamanklirik.blogspot.co.id";
+protected_links = "spotinstagramable.blogspot.com,downloadgameuntukkomputer.blogspot.com,doktor-gadget.blogspot.com,mamankflash.blogspot.com,donlod-gamehp.blogspot.com,muvicenter.blogspot.com,mamankdzgn.blogspot.com,kumpulancaramengatasi.blogspot.com,ngeflash-hp.blogspot.com,resepmasakanemahku.blogspot.com,memperbaikisegalanya.blogspot.com";
 auto_safelink();
